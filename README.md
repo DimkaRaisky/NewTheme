@@ -1,0 +1,2 @@
+# NewTheme
+ForWordpress
